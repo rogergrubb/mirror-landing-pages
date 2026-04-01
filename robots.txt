@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rogergrubb.github.io/mirror-landing-pages/sitemap.xml
